@@ -228,4 +228,5 @@ Before publishing any patch release, binary compatibility with previous version 
 
 To publish scalatest modules for jvm, js, native and dotty, use the following commands: 
 
+
     $ ./publish.sh
